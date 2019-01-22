@@ -119,7 +119,11 @@ ul.skills {
 .skills li:nth-child(odd) {
   background: #0399ff;
 }
+.res_section{
+    border-bottom: 1px solid #ccc;
+    border-radius: 6px;
 
+}
 footer {
   width: 100%;
   min-height: 30px;

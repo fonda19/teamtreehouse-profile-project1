@@ -1,2 +1,1 @@
-# teamtreehouse-profile-project1
-first project
+# personal-profile
